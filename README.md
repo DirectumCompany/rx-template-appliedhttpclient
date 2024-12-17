@@ -54,9 +54,9 @@
 3. Для сборки библиотеки и подключения в прикладном решении Directum RX, необходимо скачать библиотеку с репозитория и выполнить сборку решения.
 Решение, скачанное с репозитория необходимо открыть в Visual Studio, после выполнить сборку. 
 Для сборки решения необходимо выбрать зеленую стрелку «Запуск» и имя проекта на панели инструментов Visual Studio. В данном примере выбран проект AppliedHttpClientApp.
-![Imgae alt](https://github.com/DirectumCompany/rx-template-appliedhttpclient/tree/main/img/1.png)
+![Imgae alt](https://github.com/DirectumCompany/rx-template-appliedhttpclient/raw/main/img/1.png)
 4. Подключить собранную библиотку в требуемый модуль системы Directum RX. Добавление сторонней библиотеки в Directum RX описано в справке. При добавление сторонней библиотеки необходимо добавить файл с расширением dll. Файлы с расширением pdb, в случае если такие имеются, добавлять не стоит, т.к они нужны для отладки решения в Visual Studio.
-![Imgae alt](https://github.com/DirectumCompany/rx-template-appliedhttpclient/tree/main/img/2.png)
+![Imgae alt](https://github.com/DirectumCompany/rx-template-appliedhttpclient/raw/main/img/2.png)
 
 ### B. Копирование репозитория в систему контроля версий.
 Рекомендуемый вариант для проектов внедрения.
